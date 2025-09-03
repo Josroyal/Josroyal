@@ -12,7 +12,7 @@
 > I build small, useful data things and share what I learn.
 
 <!-- Typing header -->
-![typing](https://readme-typing-svg.demolab.com?duration=2600&pause=400&vCenter=true&lines=Data+Science+Student;LLMs+%26+Dashboards;Learning+in+public)
+![typing](https://readme-typing-svg.demolab.com?duration=2600&pause=400&vCenter=true&lines=Data+Science+Major;ML+DL+%26+Dashboards;Agentic+LLM's;Learning+in+public)
 
 <!-- View counter (Moe Counter) -->
 ![Moe Counter — Josroyal](https://count.getloli.com/@Josroyal?name=Josroyal&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
