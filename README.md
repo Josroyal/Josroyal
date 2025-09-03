@@ -4,7 +4,7 @@
 <!-- Pixel avatar -->
 <img align="left" src="https://api.dicebear.com/7.x/pixel-art/svg?seed=JosueA" width="96" alt="8-bit avatar" />
 
-# Hi, I'm Josué Arbulú Pastor
+# Hi, I'm Josue
 *Data Science @ UTEC · Barranco, Lima, Peru*
 
 [![Email](https://img.shields.io/badge/Email-josue.arbulu%40utec.edu.pe-1f2937?style=for-the-badge)](mailto:josue.arbulu@utec.edu.pe)
