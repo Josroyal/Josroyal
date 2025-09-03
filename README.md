@@ -80,6 +80,72 @@ Python · R · SQL · scikit-learn · TensorFlow · LangChain · SHAP · Tableau
   </svg>
 </p>
 
+<!-- 8-bit Josué: black curly hair, black glasses, narrow eyes, white shirt -->
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" shape-rendering="crispEdges" aria-label="8-bit avatar">
+  <defs>
+    <style>
+      .hair{fill:#0b0b0b}      /* change for hair color */
+      .skin{fill:#c58c5b}      /* change for skin tone */
+      .glass{fill:#000000}     /* glasses frame */
+      .lens{fill:#cbd5e1}      /* lens color */
+      .shirt{fill:#ffffff}     /* shirt */
+      .mouth{fill:#d13c3c}
+    </style>
+  </defs>
+
+  <!-- Hair (curly silhouette) -->
+  <rect class="hair" x="40" y="0"  width="80"  height="10"/>
+  <rect class="hair" x="30" y="10" width="100" height="10"/>
+  <rect class="hair" x="20" y="20" width="120" height="10"/>
+  <rect class="hair" x="20" y="30" width="120" height="10"/>
+  <rect class="hair" x="20" y="40" width="20"  height="10"/>
+  <rect class="hair" x="120" y="40" width="20" height="10"/>
+  <rect class="hair" x="20" y="50" width="10"  height="10"/>
+  <rect class="hair" x="130" y="50" width="10" height="10"/>
+
+  <!-- Face -->
+  <rect class="skin" x="40" y="40" width="80"  height="10"/>
+  <rect class="skin" x="30" y="50" width="100" height="10"/>
+  <rect class="skin" x="30" y="60" width="100" height="10"/>
+  <rect class="skin" x="40" y="70" width="80"  height="10"/>
+  <rect class="skin" x="40" y="80" width="80"  height="10"/>
+  <rect class="skin" x="40" y="90" width="80"  height="10"/>
+  <rect class="skin" x="40" y="100" width="80" height="10"/>
+
+  <!-- Ears -->
+  <rect class="skin" x="30" y="60" width="10" height="10"/>
+  <rect class="skin" x="130" y="60" width="10" height="10"/>
+
+  <!-- Glasses + lenses -->
+  <rect class="lens"  x="50" y="60" width="20" height="20"/>
+  <rect class="lens"  x="90" y="60" width="20" height="20"/>
+  <rect class="glass" x="50" y="60" width="20" height="10"/>  <!-- top borders -->
+  <rect class="glass" x="90" y="60" width="20" height="10"/>
+  <rect class="glass" x="50" y="70" width="20" height="10"/>  <!-- bottom borders -->
+  <rect class="glass" x="90" y="70" width="20" height="10"/>
+  <rect class="glass" x="80" y="70" width="10" height="10"/>  <!-- bridge -->
+  <rect class="glass" x="40" y="70" width="10" height="10"/>  <!-- tiny temples -->
+  <rect class="glass" x="110" y="70" width="10" height="10"/>
+
+  <!-- Narrow eyes inside lenses -->
+  <rect x="55" y="70" width="10" height="10" fill="#ffffff"/>
+  <rect x="95" y="70" width="10" height="10" fill="#ffffff"/>
+
+  <!-- Mouth -->
+  <rect class="mouth" x="75" y="90" width="10" height="10"/>
+
+  <!-- Neck -->
+  <rect class="skin" x="70" y="110" width="20" height="10"/>
+
+  <!-- White shirt -->
+  <rect class="shirt" x="20" y="120" width="120" height="10"/>
+  <rect class="shirt" x="20" y="130" width="120" height="10"/>
+  <rect class="shirt" x="30" y="140" width="100" height="10"/>
+  <rect class="shirt" x="40" y="150" width="80"  height="10"/>
+</svg>
+
+
+
 <!-- Tiny sprite row -->
 <p align="center">
   <img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=A" height="72" />
