@@ -11,18 +11,6 @@
 
 > I build small, useful data things and share what I learn.
 
----
-
-## Recent highlights
-- 🥇 NTT Data Hackathon 2024  
-- 🥇 MTPE Laboratech Datathon 2024 (study trip to Rome, 2025)  
-- 🥉 Cleveland Clinic Challenge 2024  
-- 🎓 UTEC Honors (Dean’s List 2024)  
-- 🏅 Interbank summer program: project ranked #2 (2025)
-
----
-
-## Extras
 <!-- Typing header -->
 ![typing](https://readme-typing-svg.demolab.com?duration=2600&pause=400&vCenter=true&lines=Data+Science+Student;LLMs+%26+Dashboards;Learning+in+public)
 
@@ -31,6 +19,15 @@
 
 <!-- Contribution snake (enable workflow before using) -->
 <!-- ![snake](https://raw.githubusercontent.com/Josroyal/Josroyal/output/snake.svg) -->
+
+---
+
+## Recent highlights
+- 🥇 NTT Data Hackathon 2024  
+- 🥇 MTPE Laboratech Datathon 2024 (study trip to Rome, 2025)  
+- 🥉 Cleveland Clinic Challenge 2024  
+- 🎓 UTEC Honors (Dean’s List 2024)  
+- 🏅 Interbank summer program: project ranked #2 (2025)
 
 ---
 
