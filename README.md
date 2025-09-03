@@ -69,6 +69,9 @@
 <!-- Typing header -->
 ![typing](https://readme-typing-svg.demolab.com?duration=2600&pause=400&vCenter=true&lines=Data+Science+Major;ML,+DL+%26+Dashboards;Agentic+LLM's;Learning+in+public)
 
+<!-- Top languages (below typing) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josroyal&layout=compact&langs_count=8&card_width=360)
+
 <!-- View counter (Moe Counter) -->
 ![Moe Counter — Josroyal](https://count.getloli.com/@Josroyal?name=Josroyal&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
@@ -140,6 +143,5 @@ Python · R · SQL · scikit-learn · TensorFlow · LangChain · SHAP · Tableau
   <img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=A" height="72" />
   <img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=B" height="72" />
   <img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=C" height="72" />
-  <img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=D" height="72" />
-  <img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=E" height="72" />
-</p>
+  <img
+
