@@ -1,8 +1,63 @@
 <!-- Right-side stats card -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Josroyal&show_icons=true&hide_title=true&hide_rank=true" width="320" />
 
-<!-- Pixel avatar -->
-<img align="left" src="https://api.dicebear.com/7.x/pixel-art/svg?seed=JosueA" width="96" alt="8-bit avatar" />
+<!-- Custom pixel avatar (inline SVG) -->
+<!-- Black curly hair, black glasses, narrow eyes, white shirt -->
+<p align="left">
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 160 160" shape-rendering="crispEdges" aria-label="8-bit avatar">
+  <!-- Hair (curly silhouette) -->
+  <rect x="40" y="0"  width="80"  height="10" fill="#0b0b0b"/>
+  <rect x="30" y="10" width="100" height="10" fill="#0b0b0b"/>
+  <rect x="20" y="20" width="120" height="10" fill="#0b0b0b"/>
+  <rect x="20" y="30" width="120" height="10" fill="#0b0b0b"/>
+  <rect x="20" y="40" width="20"  height="10" fill="#0b0b0b"/>
+  <rect x="120" y="40" width="20" height="10" fill="#0b0b0b"/>
+  <rect x="20" y="50" width="10"  height="10" fill="#0b0b0b"/>
+  <rect x="130" y="50" width="10" height="10" fill="#0b0b0b"/>
+
+  <!-- Face -->
+  <rect x="40" y="40" width="80"  height="10" fill="#c58c5b"/>
+  <rect x="30" y="50" width="100" height="10" fill="#c58c5b"/>
+  <rect x="30" y="60" width="100" height="10" fill="#c58c5b"/>
+  <rect x="40" y="70" width="80"  height="10" fill="#c58c5b"/>
+  <rect x="40" y="80" width="80"  height="10" fill="#c58c5b"/>
+  <rect x="40" y="90" width="80"  height="10" fill="#c58c5b"/>
+  <rect x="40" y="100" width="80" height="10" fill="#c58c5b"/>
+
+  <!-- Ears -->
+  <rect x="30" y="60" width="10" height="10" fill="#c58c5b"/>
+  <rect x="130" y="60" width="10" height="10" fill="#c58c5b"/>
+
+  <!-- Glasses frame -->
+  <rect x="50" y="60" width="20" height="10" fill="#000000"/>
+  <rect x="90" y="60" width="20" height="10" fill="#000000"/>
+  <rect x="50" y="70" width="20" height="10" fill="#000000"/>
+  <rect x="90" y="70" width="20" height="10" fill="#000000"/>
+  <rect x="80" y="70" width="10" height="10" fill="#000000"/>
+  <rect x="40" y="70" width="10" height="10" fill="#000000"/>
+  <rect x="110" y="70" width="10" height="10" fill="#000000"/>
+
+  <!-- Lenses -->
+  <rect x="50" y="60" width="20" height="20" fill="#cbd5e1" opacity="0.9"/>
+  <rect x="90" y="60" width="20" height="20" fill="#cbd5e1" opacity="0.9"/>
+
+  <!-- Narrow eyes -->
+  <rect x="55" y="70" width="10" height="4" fill="#ffffff"/>
+  <rect x="95" y="70" width="10" height="4" fill="#ffffff"/>
+
+  <!-- Mouth -->
+  <rect x="75" y="90" width="10" height="10" fill="#d13c3c"/>
+
+  <!-- Neck -->
+  <rect x="70" y="110" width="20" height="10" fill="#c58c5b"/>
+
+  <!-- White shirt -->
+  <rect x="20" y="120" width="120" height="10" fill="#ffffff"/>
+  <rect x="20" y="130" width="120" height="10" fill="#ffffff"/>
+  <rect x="30" y="140" width="100" height="10" fill="#ffffff"/>
+  <rect x="40" y="150" width="80"  height="10" fill="#ffffff"/>
+</svg>
+</p>
 
 # Hi, I'm Josue
 *Data Science @ UTEC · Barranco, Lima, Peru*
@@ -12,7 +67,7 @@
 > I build small, useful data things and share what I learn.
 
 <!-- Typing header -->
-![typing](https://readme-typing-svg.demolab.com?duration=2600&pause=400&vCenter=true&lines=Data+Science+Major;ML+DL+%26+Dashboards;Agentic+LLM's;Learning+in+public)
+![typing](https://readme-typing-svg.demolab.com?duration=2600&pause=400&vCenter=true&lines=Data+Science+Major;ML,+DL+%26+Dashboards;Agentic+LLM's;Learning+in+public)
 
 <!-- View counter (Moe Counter) -->
 ![Moe Counter — Josroyal](https://count.getloli.com/@Josroyal?name=Josroyal&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
@@ -80,72 +135,6 @@ Python · R · SQL · scikit-learn · TensorFlow · LangChain · SHAP · Tableau
   </svg>
 </p>
 
-<!-- 8-bit Josué: black curly hair, black glasses, narrow eyes, white shirt -->
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" shape-rendering="crispEdges" aria-label="8-bit avatar">
-  <defs>
-    <style>
-      .hair{fill:#0b0b0b}      /* change for hair color */
-      .skin{fill:#c58c5b}      /* change for skin tone */
-      .glass{fill:#000000}     /* glasses frame */
-      .lens{fill:#cbd5e1}      /* lens color */
-      .shirt{fill:#ffffff}     /* shirt */
-      .mouth{fill:#d13c3c}
-    </style>
-  </defs>
-
-  <!-- Hair (curly silhouette) -->
-  <rect class="hair" x="40" y="0"  width="80"  height="10"/>
-  <rect class="hair" x="30" y="10" width="100" height="10"/>
-  <rect class="hair" x="20" y="20" width="120" height="10"/>
-  <rect class="hair" x="20" y="30" width="120" height="10"/>
-  <rect class="hair" x="20" y="40" width="20"  height="10"/>
-  <rect class="hair" x="120" y="40" width="20" height="10"/>
-  <rect class="hair" x="20" y="50" width="10"  height="10"/>
-  <rect class="hair" x="130" y="50" width="10" height="10"/>
-
-  <!-- Face -->
-  <rect class="skin" x="40" y="40" width="80"  height="10"/>
-  <rect class="skin" x="30" y="50" width="100" height="10"/>
-  <rect class="skin" x="30" y="60" width="100" height="10"/>
-  <rect class="skin" x="40" y="70" width="80"  height="10"/>
-  <rect class="skin" x="40" y="80" width="80"  height="10"/>
-  <rect class="skin" x="40" y="90" width="80"  height="10"/>
-  <rect class="skin" x="40" y="100" width="80" height="10"/>
-
-  <!-- Ears -->
-  <rect class="skin" x="30" y="60" width="10" height="10"/>
-  <rect class="skin" x="130" y="60" width="10" height="10"/>
-
-  <!-- Glasses + lenses -->
-  <rect class="lens"  x="50" y="60" width="20" height="20"/>
-  <rect class="lens"  x="90" y="60" width="20" height="20"/>
-  <rect class="glass" x="50" y="60" width="20" height="10"/>  <!-- top borders -->
-  <rect class="glass" x="90" y="60" width="20" height="10"/>
-  <rect class="glass" x="50" y="70" width="20" height="10"/>  <!-- bottom borders -->
-  <rect class="glass" x="90" y="70" width="20" height="10"/>
-  <rect class="glass" x="80" y="70" width="10" height="10"/>  <!-- bridge -->
-  <rect class="glass" x="40" y="70" width="10" height="10"/>  <!-- tiny temples -->
-  <rect class="glass" x="110" y="70" width="10" height="10"/>
-
-  <!-- Narrow eyes inside lenses -->
-  <rect x="55" y="70" width="10" height="10" fill="#ffffff"/>
-  <rect x="95" y="70" width="10" height="10" fill="#ffffff"/>
-
-  <!-- Mouth -->
-  <rect class="mouth" x="75" y="90" width="10" height="10"/>
-
-  <!-- Neck -->
-  <rect class="skin" x="70" y="110" width="20" height="10"/>
-
-  <!-- White shirt -->
-  <rect class="shirt" x="20" y="120" width="120" height="10"/>
-  <rect class="shirt" x="20" y="130" width="120" height="10"/>
-  <rect class="shirt" x="30" y="140" width="100" height="10"/>
-  <rect class="shirt" x="40" y="150" width="80"  height="10"/>
-</svg>
-
-
-
 <!-- Tiny sprite row -->
 <p align="center">
   <img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=A" height="72" />
@@ -154,4 +143,3 @@ Python · R · SQL · scikit-learn · TensorFlow · LangChain · SHAP · Tableau
   <img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=D" height="72" />
   <img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=E" height="72" />
 </p>
-
