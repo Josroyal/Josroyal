@@ -61,6 +61,7 @@
 
 # Hi, I'm Josue
 *Data Science @ UTEC · Barranco, Lima, Peru*
+
 *Exchange @ UCLA · Los Angeles, CA, USA*
 
 
