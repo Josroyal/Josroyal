@@ -61,6 +61,8 @@
 
 # Hi, I'm Josue
 *Data Science @ UTEC · Barranco, Lima, Peru*
+*Exchange @ UCLA · Los Angeles, CA, USA*
+
 
 [![Email](https://img.shields.io/badge/Email-josue.arbulu%40utec.edu.pe-1f2937?style=for-the-badge)](mailto:josue.arbulu@utec.edu.pe)
 
